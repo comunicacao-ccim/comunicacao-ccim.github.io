@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>UFMA</title>
-    <link>https://portalpadrao.ufma.br/site</link>
-    <description>Universidade Federal do Maranhão</description>
+    <title>UFMA Imperatriz</title>
+    <link>https://portalpadrao.ufma.br/imperatriz</link>
+    <description>Centro de Ciências de Imperatriz</description>
     <language>pt-BR</language>
     <copyright>Todo o conteúdo deste site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada.</copyright>
     <atom:link href="https://comunicacao-ccim.github.io/index.xml" rel="self" type="application/rss+xml"/>
